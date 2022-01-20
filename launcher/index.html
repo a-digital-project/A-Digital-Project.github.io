@@ -1,0 +1,873 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-129823449-1"></script>
+		<script>
+  			window.dataLayer = window.dataLayer || [];
+  			function gtag(){dataLayer.push(arguments);}
+  			gtag('js', new Date());
+
+			gtag('config', 'UA-129823449-1');
+		</script>
+		<title>Touhou Launcher - A Digital Project</title>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="keywords" content="A Digital Project, ADP, Tohou Launcher, Touhou, Launcher">
+		<meta name="description" content="Touhou Launcher project website.">
+		<meta name="author" content="A Digital Project">
+		<meta name="google-site-verification" content="QgJvSA2kdj18LdEZIJEu41l6GHzMgUMyF8S_1EdG35o" />
+		<!-- Copyright © A Digital Project 2022 -->
+		<noscript>The page might not work as intended if scripting is disabled!</noscript>
+		<link rel="icon" href="/dist/imgs/launcher/logo.ico">
+		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+		<link href="/css/adproject.min.css" rel="stylesheet">
+	</head>
+	<body>
+		<nav id="top" class="container-fluid navbar navbar-expand-lg navbar-light bg-light">
+			<span class="navbar-brand beleren">ADP</span>
+			<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+
+			<div class="collapse navbar-collapse" id="navbar">
+				<ul class="navbar-nav">
+					<li class="nav-item">
+						<a href="/" class="nav-link" aria-current="page">Home</a>
+					</li>
+					<li class="nav-item dropdown btn-group">
+						<a id="projectsDropdown" href="/#projects" class="nav-link active">Projects</a>
+						<a href="#" class="nav-link dropdown-toggle dropdown-toggle-split" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+							<span class="visually-hidden">Toggle projects dropdown</span>
+						</a>
+						<ul class="dropdown-menu" aria-labelledby="projectsDropdown">
+							<li><a href="#" class="dropdown-item">Touhou Launcher <span class="visually-hidden">(current)</span></a></li>
+						</ul>
+					</li>
+					<li class="nav-item">
+						<a href="/#about" class="nav-link">About Us</a>
+					</li>
+				</ul>
+			</div>
+		</nav>
+		<section id="launcher" class="bg-grey">
+			<img src="/dist/imgs/launcher/logo.ico" alt="">
+			<h1>Touhou Launcher</h1>
+		</section>
+		<section id="features" class="bg-black">
+			<h1>Features</h1>
+			<ul class="fw-light list-unstyled m-0 underlined">
+				<li>Works with PC-98 games too! (<a href="https://dosbox-x.com/" target="_blank">DosBox-X</a> included)</li>
+				<li>You can open a game's custom.exe (or config.exe for Touhou 7.5) within the launcher.</li>
+				<li>Wrap up all your Touhou games in the same place so you do not have tons of shortcuts!</li>
+				<li>You can also do it with fan games because we know some of you have tons; so do not worry, we got you covered.</li>
+				<li>This also works with the <a href="https://www.thpatch.net/" target="_blank">Touhou Community Reliant Automatic Patcher</a>.</li>
+				<li>Comes with an auto update feature so you do not have to worry about checking if there are new updates.</li>
+				<li>Download replays for your favourite games just by copying its url!</li>
+				<li>Music player to listen to the bestest of the best!</li>
+				<li>Read some manga whenever you want!</li>
+			</ul>
+		</section>
+		<section id="faq" class="bg-grey">
+			<h1>F.A.Q</h1>
+			<div id="faq-list" class="accordion w-75 m-auto">
+				<div class="accordion-item">
+					<h2 class="accordion-header" id="static-patches-heading">
+						<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#static-patches-body" aria-expanded="true" aria-controls="static-patches-body">Non-static patches</button>
+					</h2>
+
+					<div id="static-patches-body" class="accordion-collapse collapse show" aria-labelledby="static-patches-heading" data-bs-parent="#faq-list">
+						<div class="accordion-body">
+							<p class="m-0">The answer is <b>yes</b>, the Launcher supports non-static patches (i.e. thcrap); in fact, we would recommend not to use static patches.</p>
+						</div>
+					</div>
+				</div>
+				<!--<div class="accordion-item">
+					<h2 class="accordion-header" id="game-buttons-images">
+						<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-game-buttons-images" aria-expanded="true" aria-controls="faq-game-buttons-images">Game buttons images</button>
+					</h2>
+
+					<div id="faq-game-buttons-images" class="accordion-collapse collapse" aria-labelledby="game-buttons-images" data-bs-parent="#faq-list">
+						<div class="accordion-body">
+							<p>You can do so by going to your installation folder and putting the image file (only png files) under the folder named "images" with the file being named "thXX" (for EoSD it would be "th06" and so on...) for the games and "random" for the random button. You will have to enable the feature in the "Settings" section in the Launcher.</p>
+						</div>
+					</div>
+				</div>-->
+			</div>
+		</section>
+		<section id="changelog">
+			<h1>Changelog</h1>
+			<div id="changelog-list" class="accordion w-75 m-auto">
+				<div class="accordion-item">
+					<h2 class="accordion-header" id="v400-heading">
+						<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#v400-body" aria-expanded="true" aria-controls="v400-body">Version 4.0.0</button>
+					</h2>
+
+					<div id="v400-body" class="accordion-collapse collapse show" aria-labelledby="v400-heading" data-bs-parent="#changelog-list">
+						<div class="accordion-body">
+							<ul>
+								<li>Added more information about replays.</li>
+								<li>Edited lots of localization strings to better convey their meaning.</li>
+								<li>Added more information on game tracks' artists and original tracks (if any).</li>
+								<li>Added option to disable detecion of replays' URLs being copied to the clipboard.</li>
+								<li>Added a pause option to the music player and reduced the latency of PC-98 music.</li>
+								<li>Added support for <a href="https://dosbox-x.com/" target="_blank">DosBox-x</a> PC-98 emulation and replaced the default emulator for it.</li>
+								<li>Removed royalflare from sites to download replays from as it will be shut down on January 31st.</li>
+								<li>Reworked the internal structure of the Launcher and some of its components, so it should perform better.</li>
+								<li>Made changes to the internal handling and structure of settings, and thus invalidated previous settings (will probably not happen again).</li>
+								<li>Added native support for thcrap patch handling, including but not limited to managing your stacks, creating new ones, choosing between stacks to play with, etc.</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="accordion-item">
+					<h2 class="accordion-header" id="v3">
+						<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#v3-changelog" aria-expanded="true" aria-controls="v3-changelog">Version 3.X.X</button>
+					</h2>
+
+					<div id="v3-changelog" class="accordion-collapse collapse" aria-labelledby="v3" data-bs-parent="#changelog-list">
+						<div id="v3-list" class="accordion accordion-body">
+							<div class="accordion-item">
+								<h2 class="accordion-header" id="v37">
+									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#v37-changelog" aria-expanded="true" aria-controls="v37-changelog">Version 3.7.0</button>
+								</h2>
+		
+								<div id="v37-changelog" class="accordion-collapse collapse" aria-labelledby="v37" data-bs-parent="#v3-list">
+									<div class="accordion-body">
+										<ul>
+											<li>Updated the music player (loop bugged, as is always the case with Tasofro games) for the full release of Touhou 17.5 (GI).</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="accordion-item">
+								<h2 class="accordion-header" id="v36">
+									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#v36-changelog" aria-expanded="true" aria-controls="v36-changelog">Version 3.6.0</button>
+								</h2>
+		
+								<div id="v36-changelog" class="accordion-collapse collapse" aria-labelledby="v36" data-bs-parent="#v3-list">
+									<div class="accordion-body">
+										<ul>
+											<li>Added the option to switch to a grid layout with the games' buttons.</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="accordion-item">
+								<h2 class="accordion-header" id="v35">
+									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#v35-changelog" aria-expanded="true" aria-controls="v35-changelog">Version 3.5.0</button>
+								</h2>
+		
+								<div id="v35-changelog" class="accordion-collapse collapse" aria-labelledby="v35" data-bs-parent="#v3-list">
+									<div class="accordion-body">
+										<ul>
+											<li>Fixed some Romanian translations.</li>
+											<li>Fixed bug that wouldn't let download print works.</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="accordion-item">
+								<h2 class="accordion-header" id="v34">
+									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#v34-changelog" aria-expanded="true" aria-controls="v34-changelog">Version 3.4.0</button>
+								</h2>
+		
+								<div id="v34-changelog" class="accordion-collapse collapse" aria-labelledby="v34" data-bs-parent="#v3-list">
+									<div class="accordion-body">
+										<ul>
+											<li>Fixed a bug that would prevent music from playing.</li>
+											<li>Fixed bugs with some games that had a spin-off (e.g. opening folders, score files, music, etc).</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="accordion-item">
+								<h2 class="accordion-header" id="v33">
+									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#v33-changelog" aria-expanded="true" aria-controls="v33-changelog">Version 3.3.0</button>
+								</h2>
+		
+								<div id="v33-changelog" class="accordion-collapse collapse" aria-labelledby="v33" data-bs-parent="#v3-list">
+									<div class="accordion-body">
+										<ul>
+											<li>Fixed clear data from Touhou 6 to 9 and Tasofro games.</li>
+											<li>Fixed display bug with resolutions with 720 height (minimun resolution allowed 800x720).</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="accordion-item">
+								<h2 class="accordion-header" id="v32">
+									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#v32-changelog" aria-expanded="true" aria-controls="v32-changelog">Version 3.2.0</button>
+								</h2>
+		
+								<div id="v32-changelog" class="accordion-collapse collapse" aria-labelledby="v32" data-bs-parent="#v3-list">
+									<div class="accordion-body">
+										<ul>
+											<li>Fixed bug where the Launcher would say there was an update even though there was none.</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="accordion-item">
+								<h2 class="accordion-header" id="v31">
+									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#v31-changelog" aria-expanded="true" aria-controls="v31-changelog">Version 3.1.0</button>
+								</h2>
+		
+								<div id="v31-changelog" class="accordion-collapse collapse" aria-labelledby="v31" data-bs-parent="#v3-list">
+									<div class="accordion-body">
+										<ul>
+											<li>Removed clear data from Tasofro games until further notice.</li>
+											<li>Fixed bug where a crash would occur after trying the Launcher tried to delete a game path pointing to a non-existant location.</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="accordion-item">
+								<h2 class="accordion-header" id="v30">
+									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#v30-changelog" aria-expanded="true" aria-controls="v30-changelog">Version 3.0.0</button>
+								</h2>
+		
+								<div id="v30-changelog" class="accordion-collapse collapse" aria-labelledby="v30" data-bs-parent="#v3-list">
+									<div class="accordion-body">
+										<ul>
+											<li>Added support for the full version of Touhou 18.</li>
+											<li>Finally overhauled the UI of the Launcher (might change in the future)!</li>
+											<li>Removed the ability to put images in the game's buttons (the images' files will stay in your folder).</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="accordion-item">
+					<h2 class="accordion-header" id="v2">
+						<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#v2-changelog" aria-expanded="true" aria-controls="v2-changelog">Version 2.X.X</button>
+					</h2>
+
+					<div id="v2-changelog" class="accordion-collapse collapse" aria-labelledby="v2" data-bs-parent="#changelog-list">
+						<div id="v2-list" class="accordion accordion-body">
+							<div class="accordion-item">
+								<h2 class="accordion-header" id="version-29">
+									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#version-29-changelog" aria-expanded="true" aria-controls="version-29-changelog">Version 2.9.0</button>
+								</h2>
+
+								<div id="version-29-changelog" class="accordion-collapse collapse" aria-labelledby="version-29" data-bs-parent="#v2-list">
+									<div class="accordion-body">
+										<ul>
+											<li>Fixed messed up music names from Touhou 3.</li>
+											<li>The download of print works can now be stopped.</li>
+											<li>Fixed volume resetting itself after restarting the Launcher.</li>
+											<li>Added a confirmation dialog before downloading a print work.</li>
+											<li>Added support for Touhou 18 ahead of its <a href="https://touhou-project.news/news/3368/" target="_blank">trial release</a> on March 21st!</li>
+											<li>Fixed bug when using images for the tools' buttons would crash the Launcher.</li>
+											<li>Fixed japanese characters not working in paths of PC98 games (NP2 does not support them).</li>
+											<li>Fixed large print works leaving the Launcher as not responding until downloading had finished.</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="accordion-item">
+								<h2 class="accordion-header" id="version-281">
+									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#version-281-changelog" aria-expanded="true" aria-controls="version-281-changelog">Version 2.8.1</button>
+								</h2>
+
+								<div id="version-281-changelog" class="accordion-collapse collapse" aria-labelledby="version-281" data-bs-parent="#v2-list">
+									<div class="accordion-body">
+										<ul>
+											<li>Fixed bug where the Launcher wouldn't be able to find the path to the PC98 emulator.</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="accordion-item">
+								<h2 class="accordion-header" id="version-28">
+									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#version-28-changelog" aria-expanded="true" aria-controls="version-28-changelog">Version 2.8.0</button>
+								</h2>
+
+								<div id="version-28-changelog" class="accordion-collapse collapse" aria-labelledby="version-28" data-bs-parent="#v2-list">
+									<div class="accordion-body">
+										<ul>
+											<li>Added the music from the PC98 era games to the player.</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="accordion-item">
+								<h2 class="accordion-header" id="version-271">
+									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#version-271-changelog" aria-expanded="true" aria-controls="version-271-changelog">Version 2.7.1</button>
+								</h2>
+
+								<div id="version-271-changelog" class="accordion-collapse collapse" aria-labelledby="version-271" data-bs-parent="#v2-list">
+									<div class="accordion-body">
+										<ul>
+											<li>Print Work collections can now be deleted.</li>
+											<li>Fixed fan games opening with a single click.</li>
+											<li>Fixed bug where tools could not be downloaded.</li>
+											<li>Print Works downloads should now take less time.</li>
+											<li>Fixed bug where Print Works could not be download.</li>
+											<li>Fixed crash when selecting something in the About tab.</li>
+											<li>Fixed some text strings not fully visible in some languages.</li>
+											<li>Fixed bug where games could not be opened if one had already been opened.</li>
+											<li>Fixed bug where the Print Works reader would fail to focus after downloading a manga.</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="accordion-item">
+								<h2 class="accordion-header" id="version-27">
+									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#version-27-changelog" aria-expanded="true" aria-controls="version-27-changelog">Version 2.7</button>
+								</h2>
+
+								<div id="version-27-changelog" class="accordion-collapse collapse" aria-labelledby="version-27" data-bs-parent="#v2-list">
+									<div class="accordion-body">
+										<ul>
+											<li>Tweaked the UI.</li>
+											<li>Added music for Touhou 13.5 (HM) and 17.5 (SCJ).</li>
+											<li>Clearance data can now only be retrieved from score files.</li>
+											<h2>Important</h2>
+											<li>Switched to .NET 5, report any bugs that have slipped testing!</li>
+											<li>The Launcher is now <b>portable</b>, so paths can now be relative to the base directory.</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="accordion-item">
+								<h2 class="accordion-header" id="version-26">
+									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#version-26-changelog" aria-expanded="true" aria-controls="version-26-changelog">Version 2.6</button>
+								</h2>
+
+								<div id="version-26-changelog" class="accordion-collapse collapse" aria-labelledby="version-26" data-bs-parent="#v2-list">
+									<div class="accordion-body">
+										<ul>
+											<li>Added music for Touhou 14.5 (ULiL) and 15.5 (AoCF).</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="accordion-item">
+								<h2 class="accordion-header" id="version-25">
+									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#version-25-changelog" aria-expanded="true" aria-controls="version-25-changelog">Version 2.5</button>
+								</h2>
+
+								<div id="version-25-changelog" class="accordion-collapse collapse" aria-labelledby="version-25" data-bs-parent="#v2-list">
+									<div class="accordion-body">
+										<ul>
+											<li>Windows 7 is <b>again</b> supported (SP1 only).</li>
+											<li>Added music for Touhou 7.5 (IaMP).</li>
+											<li>Now the location where mangas are stored in can be changed.</li>
+											<li>Fixed crash that occurred if closed the Launcher while downloading manga.</li>
+											<li>Trying to go past a manga page that has nothing to show now closes the reader.</li>
+											<li>Opening or downloading a manga now requires double clicking instead of single clicking.</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="accordion-item">
+								<h2 class="accordion-header" id="version-241">
+									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#version-241-changelog" aria-expanded="true" aria-controls="version-241-changelog">Version 2.4.1 / 2.4.2</button>
+								</h2>
+
+								<div id="version-241-changelog" class="accordion-collapse collapse" aria-labelledby="version-241" data-bs-parent="#v2-list">
+									<div class="accordion-body">
+										<ul>
+											<li>Fixed the Launcher not opening.</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="accordion-item">
+								<h2 class="accordion-header" id="version-24">
+									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#version-24-changelog" aria-expanded="true" aria-controls="version-24-changelog">Version 2.4</button>
+								</h2>
+
+								<div id="version-24-changelog" class="accordion-collapse collapse" aria-labelledby="version-24" data-bs-parent="#v2-list">
+									<div class="accordion-body">
+										<ul>
+											<li>Added music from Touhou 10.5 and 12.3.</li>
+											<li>Improved performance of the webs for replays.</li>
+											<li>Fixed bug when downloading replays of Touhou 10.</li>
+											<li>Optimized the music player, which now requires less RAM.</li>
+											<li>Music now loops as intended (but fighting games' music stutters when looping)</li>
+											<li>Fixed crashing when trying to download some mangas (i.e. 'The Grimoire of Usami').</li>
+											<li>Made it so now operations started along a progress dialog cannot close the dialog.</li>
+											<li>Windows 7 will <b>not</b> be supported until further notice; we apologize for the incovenience!</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="accordion-item">
+								<h2 class="accordion-header" id="version-23">
+									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#version-23-changelog" aria-expanded="true" aria-controls="version-23-changelog">Version 2.3</button>
+								</h2>
+
+								<div id="version-23-changelog" class="accordion-collapse collapse" aria-labelledby="version-23" data-bs-parent="#v2-list">
+									<div class="accordion-body">
+										<ul>
+											<li>Added various mangas for people to read.</li>
+											<li>Added default images for the game's buttons, all of which have been made by Zondac!.</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="accordion-item">
+								<h2 class="accordion-header" id="version-221">
+									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#version-221-changelog" aria-expanded="true" aria-controls="version-221-changelog">Version 2.2.1</button>
+								</h2>
+
+								<div id="version-221-changelog" class="accordion-collapse collapse" aria-labelledby="version-221" data-bs-parent="#v2-list">
+									<div class="accordion-body">
+										<ul>
+											<li>Fixed shuffled names of the music from Touhou 16.5.</li>
+											<li>PC-98 games are no longer included along the Launcher.</li>
+											<li>Themes of the Lunarcast web site now work as intended.</li>
+											<li>Fixed PC-98 games losing their save data when updating.</li>
+											<li>Fixed music from Touhou 12.8 not starting from the beginning.</li>
+											<li>Disabled selecting multiples songs at once in the music player.</li>
+											<li>Fixed script errors when loading the web pages to download replays.</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="accordion-item">
+								<h2 class="accordion-header" id="version-22">
+									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#version-22-changelog" aria-expanded="true" aria-controls="version-22-changelog">Version 2.2</button>
+								</h2>
+
+								<div id="version-22-changelog" class="accordion-collapse collapse" aria-labelledby="version-22" data-bs-parent="#v2-list">
+									<div class="accordion-body">
+										<ul>
+											<li>Support for the music of the spin-offs games by ZUN has been added.</li>
+											<li>Added a button to reload the clearance data manually.</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="accordion-item">
+								<h2 class="accordion-header" id="version-21">
+									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#version-21-changelog" aria-expanded="true" aria-controls="version-21-changelog">Version 2.1</button>
+								</h2>
+
+								<div id="version-21-changelog" class="accordion-collapse collapse" aria-labelledby="version-21" data-bs-parent="#v2-list">
+									<div class="accordion-body">
+										<ul>
+											<li>Now an error will show up when trying to retrieve the music of a unlocated game.</li>
+											<li>Added a progress dialogue which will show up while retrieving the music of a game.</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="accordion-item">
+								<h2 class="accordion-header" id="version-20">
+									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#version-20-changelog" aria-expanded="true" aria-controls="version-20-changelog">Version 2.0</button>
+								</h2>
+
+								<div id="version-20-changelog" class="accordion-collapse collapse" aria-labelledby="version-20" data-bs-parent="#v2-list">
+									<div class="accordion-body">
+										<ul>
+											<li>Added a music player that can play the music of the games from 7-17 except 9 & 13. Must have linked the game first to be able to play its music.</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="accordion-item">
+					<h2 class="accordion-header" id="v1">
+						<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#v1-changelog" aria-expanded="true" aria-controls="v1-changelog">Version 1.X.X</button>
+					</h2>
+
+					<div id="v1-changelog" class="accordion-collapse collapse" aria-labelledby="v1" data-bs-parent="#changelog-list">
+						<div id="v1-list" class="accordion accordion-body">
+							<div class="accordion-item">
+								<h2 class="accordion-header" id="version-111">
+									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#version-111-changelog" aria-expanded="true" aria-controls="version-111-changelog">Version 1.11</button>
+								</h2>
+
+								<div id="version-111-changelog" class="accordion-collapse collapse" aria-labelledby="version-111" data-bs-parent="#v1-list">
+									<div class="accordion-body">
+										<ul>
+											<li>Fixed game clearance management and achievements.</li>
+											<li>Added scorefile clearance for Touhou 9 after a month because nobody noticed it was missing.</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="accordion-item">
+								<h2 class="accordion-header" id="version-110">
+									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#version-110-changelog" aria-expanded="true" aria-controls="version-110-changelog">Version 1.10</button>
+								</h2>
+
+								<div id="version-110-changelog" class="accordion-collapse collapse" aria-labelledby="version-110" data-bs-parent="#v1-list">
+									<div class="accordion-body">
+										<ul>
+											<li>Fixed script errors with Lunarcast.</li>
+											<li>Fixed typo where Imperishable Night was spelled Impersihable Night.</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="accordion-item">
+								<h2 class="accordion-header" id="version-191">
+									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#version-191-changelog" aria-expanded="true" aria-controls="version-191-changelog">Version 1.9.1</button>
+								</h2>
+
+								<div id="version-191-changelog" class="accordion-collapse collapse" aria-labelledby="version-191" data-bs-parent="#v1-list">
+									<div class="accordion-body">
+										<ul>
+											<li>Fixed bug when pressing the 'Update List' button in the replays tab.</li>
+											<li>Fixed bug in Light Mode that would make the achievements background images invisible.</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="accordion-item">
+								<h2 class="accordion-header" id="version-19">
+									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#version-19-changelog" aria-expanded="true" aria-controls="version-19-changelog">Version 1.9</button>
+								</h2>
+
+								<div id="version-19-changelog" class="accordion-collapse collapse" aria-labelledby="version-19" data-bs-parent="#v1-list">
+									<div class="accordion-body">
+										<ul>
+											<li>Added game clearance management and related 'achievements'.</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="accordion-item">
+								<h2 class="accordion-header" id="version-18">
+									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#version-18-changelog" aria-expanded="true" aria-controls="version-18-changelog">Version 1.8</button>
+								</h2>
+
+								<div id="version-18-changelog" class="accordion-collapse collapse" aria-labelledby="version-18" data-bs-parent="#v1-list">
+									<div class="accordion-body">
+										<ul>
+											<li>Added replays management for games from Mountain of Faith up to the last one, excluding spin-offs.</li>
+											<li>Fixed bug where games that were using thcrap could not find their respective replay folders nor could the custom.exe.</li>
+											<br>
+											<li>And we also wish you all a happy new year!</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="accordion-item">
+								<h2 class="accordion-header" id="version-17">
+									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#version-17-changelog" aria-expanded="true" aria-controls="version-17-changelog">Version 1.7</button>
+								</h2>
+
+								<div id="version-17-changelog" class="accordion-collapse collapse" aria-labelledby="version-17" data-bs-parent="#v1-list">
+									<div class="accordion-body">
+										<ul>
+											<li>Fixed typo in Settings tab where PoFV was labeled as PCB.</li>
+											<li>The rating system has been disabled until we find time to fix it properly for once and for all!</li>
+											<li>Now it is possible to add images to the tools buttons just as you would do with normal buttons (i.e. for Scorefile Converter would be "toolSC.png").</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="accordion-item">
+								<h2 class="accordion-header" id="version-16">
+									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#version-16-changelog" aria-expanded="true" aria-controls="version-16-changelog">Version 1.6</button>
+								</h2>
+
+								<div id="version-16-changelog" class="accordion-collapse collapse" aria-labelledby="version-16" data-bs-parent="#v1-list">
+									<div class="accordion-body">
+										<ul>
+											<li>Added some tools to the games tab, this is subject to change in the future.</li>
+											<li>Added replay.royalflare.net as replays source in place of the now defunct gensokyo.org.</li>
+											<li>Changed the name of Touhou 12.3 to Hisotensoku because some people found the other one awkward.</li>
+											<li>Added Japanese language; some translations may be wrong, so let us know if you have any correction!</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="accordion-item">
+								<h2 class="accordion-header" id="version-152">
+									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#version-152-changelog" aria-expanded="true" aria-controls="version-152-changelog">Version 1.5.2</button>
+								</h2>
+
+								<div id="version-152-changelog" class="accordion-collapse collapse" aria-labelledby="version-152" data-bs-parent="#v1-list">
+									<div class="accordion-body">
+										<ul>
+											<li>Added character "<b>'</b>" to rename fan-games.</li>
+											<li>Fixed Discord link in About section not working.</li>
+											<li>Added a cooldown of 1 second to the rating system.</li>
+											<li>Fixed fan-games being opened right away after clicking once.</li>
+											<li>Fixed typo with Perfect Cherry Blossom being named Perfect Cheryy Blossom.</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="accordion-item">
+								<h2 class="accordion-header" id="version-151">
+									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#version-151-changelog" aria-expanded="true" aria-controls="version-151-changelog">Version 1.5.1</button>
+								</h2>
+
+								<div id="version-151-changelog" class="accordion-collapse collapse" aria-labelledby="version-151" data-bs-parent="#v1-list">
+									<div class="accordion-body">
+										<ul>
+											<li>Fixed custom.exe not being found.</li>
+											<li>Fixed dark mode persisting until tab change when disabled.</li>
+											<li>Fixed fan-games executing instead of opening their folders.</li>
+											<li>Added the context menu actions of the fan-games to a sidebar, too.</li>
+											<li>Added characters "-" and "_" to rename fan-games, as well as numbers 0-9.</li>
+											<li>Fixed crashing when rating a game when actually there's no game selected.</li>
+											<li>Fixed crashing when trying to open an inexistent AppData folder of any game.</li>
+											<li>Fixed AoCF saying that it had an AppData folder and that its replay folder didn't exist.</li>
+											<li>Fixed exploit that made it posible so that you could rate the same game multiple times.</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="accordion-item">
+								<h2 class="accordion-header" id="version-15">
+									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#version-15-changelog" aria-expanded="true" aria-controls="version-15-changelog">Version 1.5</button>
+								</h2>
+
+								<div id="version-15-changelog" class="accordion-collapse collapse" aria-labelledby="version-15" data-bs-parent="#v1-list">
+									<div class="accordion-body">
+										<ul>
+											<li>Added support for the Touhou 17.5 beta.</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="accordion-item">
+								<h2 class="accordion-header" id="version-14">
+									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#version-14-changelog" aria-expanded="true" aria-controls="version-14-changelog">Version 1.4</button>
+								</h2>
+
+								<div id="version-14-changelog" class="accordion-collapse collapse" aria-labelledby="version-14" data-bs-parent="#v1-list">
+									<div class="accordion-body">
+										<ul>
+											<li>We have added a dark mode so you don't get blind at night! (Not yet available in the page)</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="accordion-item">
+								<h2 class="accordion-header" id="version-131">
+									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#version-131-changelog" aria-expanded="true" aria-controls="version-131-changelog">Version 1.3.1</button>
+								</h2>
+
+								<div id="version-131-changelog" class="accordion-collapse collapse" aria-labelledby="version-131" data-bs-parent="#v1-list">
+									<div class="accordion-body">
+										<ul>
+											<li>Fixed bug that would crash the Launcher when viewing average rates.</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="accordion-item">
+								<h2 class="accordion-header" id="version-13">
+									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#version-13-changelog" aria-expanded="true" aria-controls="version-13-changelog">Version 1.3</button>
+								</h2>
+
+								<div id="version-13-changelog" class="accordion-collapse collapse" aria-labelledby="version-13" data-bs-parent="#v1-list">
+									<div class="accordion-body">
+										<ul>
+											<li>We have added a feature so you can rate the games and also view their average rate!</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="accordion-item">
+								<h2 class="accordion-header" id="version-121">
+									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#version-121-changelog" aria-expanded="true" aria-controls="version-121-changelog">Version 1.2.1</button>
+								</h2>
+
+								<div id="version-121-changelog" class="accordion-collapse collapse" aria-labelledby="version-121" data-bs-parent="#v1-list">
+									<div class="accordion-body">
+										<ul>
+											<li>Fixed the Launcher crashing in Windows 7.</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="accordion-item">
+								<h2 class="accordion-header" id="version-12">
+									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#version-12-changelog" aria-expanded="true" aria-controls="version-12-changelog">Version 1.2</button>
+								</h2>
+
+								<div id="version-12-changelog" class="accordion-collapse collapse" aria-labelledby="version-12" data-bs-parent="#v1-list">
+									<div class="accordion-body">
+										<ul>
+											<li>Added support for the full release of Touhou 17.</li>
+											<li>When adding an image for a button its text will disappear.</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="accordion-item">
+								<h2 class="accordion-header" id="version-11">
+									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#version-11-changelog" aria-expanded="true" aria-controls="version-11-changelog">Version 1.1</button>
+								</h2>
+
+								<div id="version-11-changelog" class="accordion-collapse collapse" aria-labelledby="version-11" data-bs-parent="#v1-list">
+									<div class="accordion-body">
+										<ul>
+											<li>Administrator rights are no longer required to play PC-98 games.</li>
+											<li>Fixed a bug where replays files would download in the incorrect place.</li>
+											<li>From now on, when you copy a replay's url you will be asked if you want to download that replay.</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="accordion-item">
+								<h2 class="accordion-header" id="version-103">
+									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#version-103-changelog" aria-expanded="true" aria-controls="version-103-changelog">Version 1.0.3</button>
+								</h2>
+
+								<div id="version-103-changelog" class="accordion-collapse collapse" aria-labelledby="version-103" data-bs-parent="#v1-list">
+									<div class="accordion-body">
+										<ul>
+											<li>Fixed a bug where the window would not auto-close in certain cases.</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="accordion-item">
+								<h2 class="accordion-header" id="version-102">
+									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#version-102-changelog" aria-expanded="true" aria-controls="version-102-changelog">Version 1.0.2</button>
+								</h2>
+
+								<div id="version-102-changelog" class="accordion-collapse collapse" aria-labelledby="version-102" data-bs-parent="#v1-list">
+									<div class="accordion-body">
+										<ul>
+											<li>Fixed a bug where it wasn't able to run PC-98 games (it required administrator rights).</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="accordion-item">
+								<h2 class="accordion-header" id="version-101">
+									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#version-101-changelog" aria-expanded="true" aria-controls="version-101-changelog">Version 1.0.1</button>
+								</h2>
+
+								<div id="version-101-changelog" class="accordion-collapse collapse" aria-labelledby="version-101" data-bs-parent="#v1-list">
+									<div class="accordion-body">
+										<ul>
+											<li>Fixed a bug where it wasn't able to link fan-games with Unicode characters (non-ASCII characters, such as Japanese ones).</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="accordion-item">
+								<h2 class="accordion-header" id="version-10">
+									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#version-10-changelog" aria-expanded="true" aria-controls="version-10-changelog">Version 1.0</button>
+								</h2>
+
+								<div id="version-10-changelog" class="accordion-collapse collapse" aria-labelledby="version-10" data-bs-parent="#v1-list">
+									<div class="accordion-body">
+										<ul>
+											<li>Initial release!</spoiler></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section id="screenshots" class="bg-grey">
+			<h1>Screenshots</h1>
+			<div id="screenshotsCarousel" class="carousel slide" data-bs-ride="carousel">
+				<div class="carousel-inner">
+					<div class="carousel-item active">
+						<img class="d-block w-100" src="/dist/imgs/launcher/launcher-menu.png" alt="Touhou Launcher Menu">
+					</div>
+					<div class="carousel-item">
+						<img class="d-block w-100" src="/dist/imgs/launcher/launcher-fan_games.png" alt="Touhou Launcher Fan-Games">
+					</div>
+					<div class="carousel-item">
+						<img class="d-block w-100" src="/dist/imgs/launcher/launcher-music.png" alt="Touhou Launcher Music Player">
+					</div>
+					<div class="carousel-item">
+						<img class="d-block w-100" src="/dist/imgs/launcher/launcher-print_works.png" alt="Touhou Launcher Print Works">
+					</div>
+					<div class="carousel-item">
+						<img class="d-block w-100" src="/dist/imgs/launcher/launcher-settings.png" alt="Touhou Launcher Settings">
+					</div>
+					<div class="carousel-item">
+						<img class="d-block w-100" src="/dist/imgs/launcher/launcher-dark-menu.png" alt="Touhou Launcher (Dark Theme) Menu">
+					</div>
+					<div class="carousel-item">
+						<img class="d-block w-100" src="/dist/imgs/launcher/launcher-dark-fan_games.png" alt="Touhou Launcher (Dark Theme) Fan-Games">
+					</div>
+					<div class="carousel-item">
+						<img class="d-block w-100" src="/dist/imgs/launcher/launcher-dark-music.png" alt="Touhou Launcher (Dark Theme) Music Player">
+					</div>
+					<div class="carousel-item">
+						<img class="d-block w-100" src="/dist/imgs/launcher/launcher-dark-print_works.png" alt="Touhou Launcher (Dark Theme) Print Works">
+					</div>
+					<div class="carousel-item">
+						<img class="d-block w-100" src="/dist/imgs/launcher/launcher-dark-settings.png" alt="Touhou Launcher (Dark Theme) Settings">
+					</div>
+				</div>
+				<button class="carousel-control-prev" type="button" data-bs-target="#screenshotsCarousel" data-bs-slide="prev">
+					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+					<span class="visually-hidden">Previous</span>
+				</a>
+				<button class="carousel-control-next" type="button" data-bs-target="#screenshotsCarousel" data-bs-slide="next">
+					<span class="carousel-control-next-icon" aria-hidden="true"></span>
+					<span class="visually-hidden">Next</span>
+				</button>
+			</div>
+		</section>
+		<section id="requirements" class="bg-black d-none d-lg-block">
+			<h1>System requirements</h1>
+			<ul>
+				<li>
+					<h4>Windows 7 SP1 / 8.1 / 10 / 11</h3>
+					<h5>Operating System</h4>
+				</li>
+				<li>
+					<h4>512MB RAM</h3>
+					<h5>Memory</h4>
+				</li>
+				<li>
+					<h4>1 GHz</h3>
+					<h5>Processor</h4>
+				</li>
+				<li>
+					<h4><a href="https://docs.microsoft.com/troubleshoot/windows-client/windows-7-eos-faq/windows-7-extended-security-updates-faq" target="_blank">Extended Security Updates</a></h3>
+					<h5>Windows 7</h4>
+				</li>
+			</ul>
+		</section>
+		<section id="download">
+			<h1>Download</h1>
+			<h2>Are you ready to download Touhou Launcher? Then go ahead and smash the button!</h2>
+			<br>
+			<a href="https://github.com/a-digital-project/Touhou-Launcher/releases/latest/download/Touhou.Launcher.zip" class="btn btn-lg stand-btn w-200" data-text-over="Smash it!" data-text-default="The Button!">The Button!</a>
+		</section>
+		<footer class="bg-black">
+			<img src="/dist/imgs/adp-letters.png" alt="A Digital Project">
+			<h1 class="beleren">A Digital Project</h1>
+			<div class="social">
+				<a href="https://twitter.com/ADProjectTeam">
+					<img src="/dist/imgs/icons/tw-icon-white.png" class="w-100" alt="Twitter">
+				</a>
+				<a href="https://discord.gg/Mwnev4J">
+					<img src="/dist/imgs/icons/discord-icon-white.png" class="w-100 p-1" alt="Discord">
+				</a>
+				<!-- <a href="https://gamejolt.com/@ADigitalProject">
+					<img src="/dist/imgs/icons/gj-icon-white.png" alt="Game Jolt">
+				</a> -->
+				<a href="https://www.youtube.com/channel/UCbxYBhmsFPW5lqx1PL6diFA">
+					<img src="/dist/imgs/icons/yt-icon-white.png" class="w-100" alt="YouTube">
+				</a>
+			</div>
+			<a href="mailto:contact@adigitalproject.tk" class="contact">contact@adigitalproject.tk</a>
+			<a href="#" class="btn-top d-none d-md-block" role="button">
+				<img src="/dist/imgs/icons/scroll-up-icon.png" alt="Scroll up">
+			</a>
+		</footer>
+		<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+		<script src="/js/adproject.min.js"></script>
+	</body>
+</html>
