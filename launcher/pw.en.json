@@ -1,1004 +1,1240 @@
 [
 	{
-		"short_name": "SSiB",
 		"name": "Touhou Bougetsushou ~ Silent Sinner in Blue",
+		"short_name": "SSiB",
 		"chapters": [
 			{
 				"name": "Prologue",
+				"pages": 9,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1bbIILDlmrQOCUzUJ1jWmvygkoIXCcSXX/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 1: The Sage's Plan",
+				"pages": 32,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1U45JuxIHRH3qyaxKI4AqwbbzKeMHaLIS/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 2: The Jewelled Rabbit's Letter",
+				"pages": 21,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1cci5bsJj8-mzmQOzDN_DiuPT9MCWwOxu/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 3: The Scarlet Rocket",
+				"pages": 20,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1uJvidts4GomfgPF0lwIo2yESipAuLACm/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 4: Our Old Friend, The Rainy Moon",
+				"pages": 25,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1h6BC3JwIdkW37kL9maawqhzTtBnx-co0/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 5: The Sumiyoshi Project",
+				"pages": 29,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1PfkoQ_OlzJCEd3aT7_elNOSrEnk7mN4-/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 6: The Three-God Moon Rocket",
+				"pages": 27,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1VBLbAFgg4JXRNyXYI26V0MrICXbaEA1E/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 7: The Princesses of The Moon",
+				"pages": 26,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1kfdVKaglOi5HzHhO3z7DQCS5mKOfXYYQ/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 8: The Sage's Letter",
+				"pages": 28,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1xd8dZ8MNDCaZQ51iEW_dmwyjhyDbrgY4/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 9: Sumiyoshi in Blue",
+				"pages": 24,
 				"download_url": "https://www.googleapis.com/drive/v3/files/19v4-ubE6v4TpoT-UD9fTMAExRljg1lvk/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 10: Illusionary Cape Caneveral",
+				"pages": 27,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1bap-vINCzJr-cqKoGxm4X0JawYKtr_O-/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 11: Flying the Blue Sky",
+				"pages": 31,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1-OLSezXlOxfSgMh1dNUPKQ8zZG43cH-a/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 12: The Sea of Prosperity",
+				"pages": 29,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1dK6QgvTYu8UsJbbXB36YKDmQkvYrFtMe/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 13: The Beauty of the Moon's Surface",
+				"pages": 28,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1pGKJ4GsLYg36MQRpyG-ygGkDSGpqHzOm/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 14: The Metal Showdown",
+				"pages": 26,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1rbTYq4i6oqdgiMGUe2-c9CtmuREuTgKs/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 15: The Stardust Human",
+				"pages": 30,
 				"download_url": "https://www.googleapis.com/drive/v3/files/11gysUtwVtt2TrLoQrbeDWkqZZIYB78EC/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 16: A Map From an Old Friend",
+				"pages": 29,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1seDb2uC-msqXaBmcqiQWItRcA6LiSGRH/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 17: The 27-1/3 Trap",
+				"pages": 23,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1MJqUa57hMyMlNEmZuekTvucZq6SdqLMo/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 18: The Lunar Mastermind",
+				"pages": 21,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1U8iL0nr7eQbzeX-V3HukKxxvLTPFuyXc/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 19: The Bound God of the Great Earth",
+				"pages": 23,
 				"download_url": "https://www.googleapis.com/drive/v3/files/17j-nym6hU3iUWjoDnurqdjepzyfoVSgl/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 20: That Final Trace of Impurity",
+				"pages": 23,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1GMRv6TW6UAl11y910KlFjiivu0hzT-KL/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 21: The Blue Feast",
+				"pages": 31,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1tXKJW179QnfXNxw2Ng_zHttjE-5wzNif/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			}
 		]
 	},
 	{
-		"short_name": "IMaIE",
 		"name": "Touhou Bougetsushou ~ Inaba of the Moon and Inaba of the Earth",
+		"short_name": "IMaIE",
 		"chapters": [
 			{
 				"name": "Chapter 1",
+				"pages": 8,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1-Yw7sSvYc2rPZbpOl3XnUiaroZb2DYvT/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 2",
+				"pages": 8,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1ONNe-iTHdD3lfHU6Qrf1CHyyJBdr3Yt5/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 3",
+				"pages": 8,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1dKXFoX-xm81W0QCjIn-SEuopDKHYUNpi/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 4",
+				"pages": 4,
 				"download_url": "https://www.googleapis.com/drive/v3/files/14Hq4GdLp3leQQB58hfHjodS6mYJgTFOy/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 5",
+				"pages": 6,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1mED_WOxRynlP5-FAbaL9UV1opLNJ3zDa/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 6",
+				"pages": 8,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1BDHKXJowSP1fTicTnAW2h6ZtLIXVAK_l/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 7",
+				"pages": 8,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1wFLa4_R8GivjiCb1CpA2G7Q6yusu1-Gs/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 8",
+				"pages": 8,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1uNBQ-J39TQwka1uEdCQj0ol1PVmqCyy2/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 9",
+				"pages": 8,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1ivCU35kqd-JzWz3De2wnAcBJyf_-0wyF/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 10",
+				"pages": 6,
 				"download_url": "https://www.googleapis.com/drive/v3/files/15O_laxw5Pqh3x6OPUMASbXmiQyuPHHkZ/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 11",
+				"pages": 8,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1f8NjYCEnIy9KFgU15UdF-sixoJlOrqF8/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 12",
+				"pages": 8,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1dgtw3ZEkAjQ4ZvbztuIY0guDVicmrrGz/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 13",
+				"pages": 8,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1PH32JPKlPxER-mEn1xrEKOut3m_FlJbU/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 14",
+				"pages": 8,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1Cl4kqnSkI3fPME5uPsa50u11AE0imnpK/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 15",
+				"pages": 10,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1F6bacE5zwPlHeGyND9-1EnEajs3fLy2A/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 16",
+				"pages": 9,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1Yt3n6j7WypSCcw1jnpxDP8D8gSP48Zjb/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 17",
+				"pages": 8,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1g7hR6O9J5D-vRicmhZD2rfRdkYtW7uS3/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 18",
+				"pages": 7,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1SbPECpYiBR28NBPqfF4TPjGnD8OOodQL/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 19",
+				"pages": 8,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1p7btn6x3K2ZRbnOi7ffmUqAoofoemShi/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 20",
+				"pages": 8,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1tH4V9RXUBZGgOz5rZVAEqYNCexgyLoEB/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 21",
+				"pages": 10,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1B0jM5LBQ97Vuyen9B_GwwUrtSHb1Zx0a/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 22",
+				"pages": 6,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1rZc9vK4RkP8nFjh7a_59LWz_BGvkl6EF/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 23",
+				"pages": 8,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1XFR8OiLVs-fAILl2ZlvM9xIjA1fTeM5t/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 24",
+				"pages": 8,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1jbKQ1VJRcLpGYME_rjddOtbjgeXr_sQt/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 25",
+				"pages": 4,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1XjusUz6o6VFvVVTUAjThhRPaGgT8USYA/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 26",
+				"pages": 15,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1pgTrd93b4gjlaZFP0uBgzK4okD2CTtLV/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 27",
+				"pages": 6,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1fiCSMZENHIIM9BI2qbC-Cu5cT8QUzMsj/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 28",
+				"pages": 6,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1OsSzU_4O8FyrK1DNbxi3O7LydX1DARtW/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 29",
+				"pages": 8,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1lh3LBBmTezzUdkxxGLo38sTJmri0Vhyt/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 30",
+				"pages": 12,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1iDws-nFWBBk9BV_aiL388WVIPhfTHnax/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "C72 Special",
+				"pages": 2,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1caHEazl698-M3poowgE1v66HEgAZ8luV/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "C74 Special",
+				"pages": 2,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1vCHH9h5LFi9-CTN0JSjz2dJy20UOylUw/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			}
 		]
 	},
 	{
-		"short_name": "AFiEU",
 		"name": "Touhou Bunkachou ~ Alternative Facts in Eastern Utopia",
+		"short_name": "AFiEU",
 		"chapters": [
 			{
 				"name": "Complete book",
+				"pages": 80,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1_4U5KPaML8C_v1NO6RYerH2Cw7ZkiqFO/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			}
 		]
 	},
 	{
-		"short_name": "WaHH",
 		"name": "Touhou Ibarakasen ~ Wild and Horned Hermit",
+		"short_name": "WaHH",
 		"chapters": [
 			{
 				"name": "Chapter 1: The One-Armed Horned Hermit",
+				"pages": 27,
 				"download_url": "https://www.googleapis.com/drive/v3/files/17sYA6MsupMUd40Yh29Ps8TAgLTm6zVlR/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 2: The Intentionally Abandoned Technology and Hell",
+				"pages": 29,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1zQnUKe4PYDswCKhl5i2uoRpMi4m4o2sQ/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 3: The Criminal's Gold Mine",
+				"pages": 27,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1WRXQhjfGrlOiWHMZQK47YQRM0CB1z0dx/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 4: An Artificial Lake of Faith",
+				"pages": 28,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1PHZGNDX_3Bv6bjHtE1Y9ot1LvcHx2UPl/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 5: The Hermit's Duty",
+				"pages": 28,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1zFCeHpQXXcXr9bHgUlV6x7FKcagmzkSN/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 6: The Invisible Poison the Thunder Holds",
+				"pages": 29,
 				"download_url": "https://www.googleapis.com/drive/v3/files/11FOxcPmicabPUEz40fdMu7s8XP5piWFy/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 7: The Real God of Fortune",
+				"pages": 28,
 				"download_url": "https://www.googleapis.com/drive/v3/files/12Gft8MiqVmwOK0guwM0VJDpHlO-pF5Aj/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 8: The Fox's Trick",
+				"pages": 29,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1uad8CVLSzRftQBWQlsxQsRwnt1oFwHEo/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 9: New and Old Youkai",
+				"pages": 30,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1DpmBzFmDvkr_Wtj0BsCvLoP_rVSMVFbG/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 10: The Otherworld of Hahakigi",
+				"pages": 27,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1rz7Tn-F8Aq4PIUTjm0fBi8TlvS_0fRRm/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 11: Unshou the Fisherman",
+				"pages": 28,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1yg8IrpER0HTvkOV6TISXxufBL9l_1LmP/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 12: Hell's Welcoming",
+				"pages": 32,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1qvqvegUDl7vbJPrxj52CIy_cpbWJxUBW/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 13: Kappa Forsaking the River",
+				"pages": 26,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1oYeiC2MSVOE59-Unn25s-YcoGk2UwGdz/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 14: Youkai Preferred by Humans",
+				"pages": 26,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1XlAHzPVHgc-hUcDuNyDQjzR-l6kPHPCn/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 15: Visible Goshintai",
+				"pages": 30,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1GlqBs5-UGGo3YLdFbcj9F26nU2nwjeT0/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 16: The Oni's Drinking Vessel",
+				"pages": 29,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1KCCnJtGBANAuVwi5KFkouGaPso5BJxdh/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 17: The Rainy Season's Rare Stone",
+				"pages": 27,
 				"download_url": "https://www.googleapis.com/drive/v3/files/17Xlhjj7NrkVmiOTZewGAT0fAOYz0WFcE/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 18: The Hermit as a Religious Figure",
+				"pages": 26,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1he5Z45I8gx4zl0wNM45EwBIyFeHE2L5o/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 19: A Sake with History",
+				"pages": 27,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1u98aLYuoyWKkohumZLg3mUywJDi1SKvi/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 20: The Unfortunate Tori-no-Ichi",
+				"pages": 30,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1b0Wh_1MiIEgkOccIYE-BfP4EWK1JHnSQ/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 21: Onis Out, Stomachs In",
+				"pages": 26,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1s3S0q5Az0EzZoETiwrtwoHiDPJIqPNk-/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 22: The Fishy Manzairaku",
+				"pages": 28,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1YND0NOHCvSbGElNEpG3H-P7WFJOQ3w2t/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 23: The Misguided Shrine Maiden",
+				"pages": 23,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1oeG5jUintew97mDerOv0wTij0z6pgtmK/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 24: Scaled Thunder",
+				"pages": 31,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1AaiTsIhrLGYBpb3aXJz-VamRZdt8zRvz/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 25: The Spherical Cage",
+				"pages": 30,
 				"download_url": "https://www.googleapis.com/drive/v3/files/15aZmxJuiHyEbz90FPNhS_pCXz4cKO5Y-/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 26: The Sullen Oddity",
+				"pages": 28,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1yJne2dfJOaauYiidIt02eXj719Pb1oo9/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 27: The Youkai-Piercing Needles",
+				"pages": 25,
 				"download_url": "https://www.googleapis.com/drive/v3/files/15JiWOCGeDG7LO3buWqZ9vySBpGDNKArB/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 28: Under the Cherry Blossoms, Even Corpses Cannot Rest",
+				"pages": 28,
 				"download_url": "https://www.googleapis.com/drive/v3/files/14buZ6cbTyO7PRh0SvAOAs8VuSVjQf7Sh/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 29: A Dream of the Deep Secret World",
+				"pages": 28,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1Wzk1Lt0qktdCz0qxORDpDVPXCtL7Y1QT/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 30: Power Permitted Only to the Gods",
+				"pages": 26,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1HR8npNKYZSch6BfwswIjV1TvL8ML23X3/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 31: Who Spared the Rabbits?",
+				"pages": 27,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1WeivY1W8iMYAVnGpNW3n8yrCCZ3Lrkzh/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
-				"name":  "Chapter 32: The Secret Pompoko Battle for the King of the Hill",
+				"name": "Chapter 32: The Secret Pompoko Battle for the King of the Hill",
+				"pages": 30,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1iw9j66NkOJBkWQeYWz5rwUOX6jGvQ8DA/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 33: Western Devils Running Rampant Underfoot",
+				"pages": 27,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1E-Jx-d8g9-fM2KWg9mYWtq_2-CeJxfYF/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 34: The Unidentified Haze That Afflicts the Brain",
+				"pages": 30,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1h9wKKCkbYAn0bfE00AxqmpJJuFqsTjVU/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 35: What Kasen Ibaraki Believes In",
+				"pages": 29,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1_nsBncCHuIcG4xEcdVU1R4C-7OeQL7cb/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 36: Autumn with the sky clear and blue, and shrines growing stout",
+				"pages": 29,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1jO2FSHrvmzgN8tyb1q0BDDV0srLWBT_V/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 37: Does that Flash Bring Snow, or Gods?",
+				"pages": 30,
 				"download_url": "https://www.googleapis.com/drive/v3/files/10HXQHNfal37joNoNTJVP6Wn4LwEC2aZj/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 38: Shrine as Sacred Ground",
+				"pages": 27,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1KonRcbNtU1woAXYEncePOqcqK-9LAfif/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 39: Because Youkai Mountain is There",
+				"pages": 27,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1w3lgradkR2u3DoNEatW6ctRAL5Shgval/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 40: The Strange Weather Gnawing at Gensokyo",
+				"pages": 29,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1iZMKc9-t3a0pKpUYvAo5uRWhADertihI/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 41: Cool Air From Heaven",
+				"pages": 30,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1ExlsQAEYp0U1gAi3c71iDa-k7FgtZi3X/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 42: Take Back the Four Seasons",
+				"pages": 33,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1WV-XeXkBf_K6_t84dZvXuyCaAirevIsp/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 43: The Hakurei Shrine Cannot Make A Profit",
+				"pages": 29,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1P1fqV7Zeru1WCkUdXLUb2jV_TYvbopIG/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 44: Another Way to Exceed One's Lifespan",
+				"pages": 30,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1hvBsEjJ-pnKsGDHloBMHy5Zt6ZHh6bHj/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 45: The Worst and the Best Banquet",
+				"pages": 31,
 				"download_url": "https://www.googleapis.com/drive/v3/files/14yGnGtYCsYpRFZBTBXc-Ndo5cYfAdPW6/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 46: Wandering Wraiths, and the Transcendence of Death",
+				"pages": 35,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1YZ970BLRy9abaOB4STrfF2DoAfVbL5zf/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 47: Schadenfreude Utopia",
+				"pages": 29,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1uxWK6mRz8PZXdbd9VV5Wn328FP0Wd5Dt/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 48: Not Stopping to Ask for Direction in the Land of Darkness",
+				"pages": 30,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1yp8VshrquWCdx0Xo6__NlzrxkIr-4V_e/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 49: The Inhuman Talent Embracing Wickedness (Part 1)",
+				"pages": 27,
 				"download_url": "https://www.googleapis.com/drive/v3/files/185IOYJhbY2hi001zxyRuLUClKVJeVqKG/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
-				"name":	"Chapter 49: The Inhuman Talent Embracing Wickedness (Part 2)",
+				"name": "Chapter 49: The Inhuman Talent Embracing Wickedness (Part 2)",
+				"pages": 27,
 				"download_url": "https://www.googleapis.com/drive/v3/files/10JihwJMMSIPMo5NT4VEkV-U2nK5U7VsK/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 50: The Horned, One-Armed Hermit",
+				"pages": 51,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1BP0tw6DZNhtknwS2tcfMQoF_aDvdKHzn/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Vol. 6 Bonus Material",
+				"pages": 12,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1Z23VvnemNR48eujYpTUTB7LdkHD-CPM4/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Tiny Business Travel Editions 1-9",
+				"pages": 4,
 				"download_url": "https://www.googleapis.com/drive/v3/files/18JAgbImv_uPBFMf7bJCFF1ROdXXfgfiA/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			}
 		]
 	},
 	{
-		"short_name": "EaLND",
 		"name": "Touhou Sangetsusei ~ Eastern and Little Nature Deity",
+		"short_name": "EaLND",
 		"chapters": [
 			{
 				"name": "Chapter 0: The Distance of the Cherry Blossoms",
+				"pages": 9,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1IVQo-YoFBacpHJIHcQnwxn0rAslfx4YD/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 1: The Truth about the Ending Rainy Season",
+				"pages": 17,
 				"download_url": "https://www.googleapis.com/drive/v3/files/14UiEcEGcL_PxrK_gLWivz5r6nSYeUHU-/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 2: A Miko Without Hesitation",
+				"pages": 16,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1NhBjBrEhKoTicD6Wh2tzZtAw1EsKlE-H/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 3: Rice Cake's Picture From The Moon",
+				"pages": 13,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1WYy53frZ2TLaM3m1CwSGnJN27GB2-DHc/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 4: The Shrine Gate Of The Stars",
+				"pages": 13,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1y_vW5LHxetfpmsX6C61-muL_3_8tCdiY/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 5: The Mistery Of The Big Egg",
+				"pages": 13,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1ARAxYQIGrzGEaQXZN2JapV9CtUGd4hPW/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			}
 		]
 	},
 	{
-		"short_name": "SaBND",
 		"name": "Touhou Sangetsusei ~ Strange and Bright Nature Deity",
+		"short_name": "SaBND",
 		"chapters": [
 			{
 				"name": "Chapter 1: Villa of the Rainy Season",
+				"pages": 17,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1czPZJQQKBHuwBBvA0ccODVevIm6Ejlwf/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 2: The Melancholy of Ghosts",
+				"pages": 17,
 				"download_url": "https://www.googleapis.com/drive/v3/files/14tYI65QXfn6kClPZyBmQ9q2iswyeYHXT/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 3: Tall Grass Rabbit",
+				"pages": 17,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1OVu-HAmxE3k1NfeMBmw_A5kmU8N-hS8x/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 4: Beyond the Incidents",
+				"pages": 16,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1fb9n-RYfHzuhvu6DPcIOAxSijhnG_URC/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 5: Witches and Lies (First Part)",
+				"pages": 16,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1VTjVVzAdWa7X7__4KMaELu8yd0-Ky_LI/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 6: Witches and Lies (Latter Part)",
+				"pages": 16,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1bLHyvmCC2uqNOENseRUYxYruLmWRxF-q/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 7: Spring's Illusion (First Part)",
+				"pages": 16,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1-gWBzD5q3mb06nPz336h9MSrPkb-P410/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 8: Spring's Illusion (Latter Part)",
+				"pages": 15,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1CRqLA4uakgL8knlPevCXYbBcOoV8ZE2E/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 9: The Delicate Kirisame (First Part)",
+				"pages": 16,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1GpQm4kaZaeyIwH1_NAbPMgUnkFQTfDNj/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 10: The Delicate Kirisame (Latter Part)",
+				"pages": 16,
 				"download_url": "https://www.googleapis.com/drive/v3/files/16PMF6SWPEAC_g8_mpmt55fHNznI0LOE7/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 11: Xuanwu's Ravine (First Part)",
+				"pages": 13,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1rjCoEAVZvcGvWTy_Z2RSFNKzWdp1O2Td/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 12: Xuanwu's Ravine (Latter Part)",
+				"pages": 17,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1GzpshPFdUwXq_XzyUm3gWvLXz3vT1R4S/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 13: The Strongest Storm (First Part)",
+				"pages": 16,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1MuFHo1dajE0W5vR6jd2-7LSYW6AnKXcQ/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 14: The Strongest Storm (Latter Part)",
+				"pages": 16,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1SQQUgDyFBA6WZfWbO3KZHu8wTZUAAUL-/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 15: The God and the Devil of the Sky (First Part)",
+				"pages": 13,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1xi1oeB_tI4Z4m-Fg8OYEokHjflQrrxgt/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 16: The God and the Devil of the Sky (Latter Part)",
+				"pages": 19,
 				"download_url": "https://www.googleapis.com/drive/v3/files/17sI8x037j2gn3OVWamc1LFA9d0WbGGsM/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 17: The Worm Inside the Jar, the Wine Worm's Vase (First Part)",
+				"pages": 15,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1IR5u-XG_78bbncrcUQ6Lk8sH2cfV3QK3/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 18: The Worm Inside the Jar, the Wine Worm's Vase (Latter Part)",
+				"pages": 17,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1pUhBLhBsKutQdoUBHMbHd7rQijYwAzXx/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 19: The Terror of Monsters (First Part)",
+				"pages": 17,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1IWqHxQNC-HQTCp9TYzigjtDrtimTHY4N/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 20: The Terror of Monsters (Latter Part)",
+				"pages": 14,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1cZIgvvf_1cryc9OsMCLYyBn7M3VAUIiy/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 21: The Largest Organism in the World (First Part)",
+				"pages": 13,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1Kb6UrUiHL4zbXhdwhWOlcE3xskLzD_fn/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 22: The Largest Organism in the World (Latter Part)",
+				"pages": 12,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1n-p-XmorpsWRwYsz3HRuXVWkLk5tpyWF/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 23: The Two Worlds (First Part)",
+				"pages": 13,
 				"download_url": "https://www.googleapis.com/drive/v3/files/17QWdtfqV4ETHY3PUpO1Hyp0AUf9h4kzd/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 24: The Two Worlds (Second Part)",
+				"pages": 17,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1711pi1CZHQPtgVpOvuXLamsPlL9--Ytg/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 25: The Two Worlds (Final Part)",
+				"pages": 21,
 				"download_url": "https://www.googleapis.com/drive/v3/files/14LMVEIy5_cNbvLZfrYaX_AvmGQGhAFEL/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Volume 1 Extra: Make it Three Drinks",
+				"pages": 18,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1I0LEsAuy0ACx9lBcw6HCS9fDVTyPFdUx/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Volume 2 Extra: The Great Fairy War",
+				"pages": 20,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1MSF0Jq3TaEZwOO_XW-8zbi_4Vb0ysBMW/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Volume 3 Extra Omake: An everyday of the Three Fairies",
+				"pages": 6,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1KYKdqpn3xcTtse2TwNixg7N_E5HVU9_8/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			}
 		]
 	},
 	{
-		"short_name": "OSP",
 		"name": "Touhou Sangetsusei ~ Oriental Sacred Place",
+		"short_name": "OSP",
 		"chapters": [
 			{
 				"name": "Chapter 1: Behind the Shrine (Part 1)",
+				"pages": 17,
 				"download_url": "https://www.googleapis.com/drive/v3/files/11aDsAkpnX-ay6IeWrKGJDmRzPT3IKo9B/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 2: Behind the Shrine (Part 2)",
+				"pages": 15,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1-K5NeOyPfmI_GIa0zwAph_EuRO3J21nj/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 3: What's Under the Rocks (Part 1)",
+				"pages": 13,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1OfrX7dKOvVYijwYBQo2is67l8H8RnL0Y/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 4: What's Under the Rocks (Part 2)",
+				"pages": 19,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1JK_aKfwjWtAIRBCY9YYQ_nof6f5KYROo/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 5: Unmoving Faith (Part 1)",
+				"pages": 15,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1Fc7i97OdwKekb8M24ldGQ2wWe38YBunM/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 6: Unmoving Faith (Part 2)",
+				"pages": 17,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1gO-bYWMwSeFGQ4d7nr9QPlHGX7Ha-55C/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 7: The Boletes and the Slug (Part 1)",
+				"pages": 13,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1qQwJpnXy2hOq0SP6r5AykU2O_-b62_Gr/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 8: The Boletes and the Slug (Part 2)",
+				"pages": 19,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1jYHYYBQM7BEVFxd7N_MbXO6abdm9DA0M/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 9: The Youkai's Nagafu",
+				"pages": 25,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1v5iiGJAGcb7ltcIoYERQmWBAVYguvAMm/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 10: That Long Forgotten",
+				"pages": 25,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1mz-0dBlME5LxkXl9BzdF6_lUZyYtSjg3/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 11: Enchanting Full Moon",
+				"pages": 27,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1jSq6AeoOGRLoPFOyCwM06QFmQPJLQ3Eh/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 12: Red-White Battle of Faith",
+				"pages": 25,
 				"download_url": "https://www.googleapis.com/drive/v3/files/11ReHnU9qGwmWh6zZMKXLOj2Ao1CdAdK5/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 13: Until A Sparrow is 100",
+				"pages": 27,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1n8FfIwYuHXX8Q-ks5D58reeGs5L69hsN/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 14: The Kyoumaru Tree Peony Stone",
+				"pages": 23,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1oj0lbxVTR5me7FYS6B2WqMHz8lnTUULR/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 15: The Demon's Bookworm",
+				"pages": 24,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1aqOuBykt6vOUUj46-blALi-TYfkdMTRS/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 16: Man-Eating Beast",
+				"pages": 21,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1YnBIdRZLX20L3eE5A03voBHFmwTvVXTJ/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 17: Contradictory Blessing",
+				"pages": 24,
 				"download_url": "https://www.googleapis.com/drive/v3/files/16n8agkpGU4nWljlk34O9mPT2X5JA-eQ7/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 18: Mysterious Soaring Shrine Maiden",
+				"pages": 32,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1vMhKlgWo5xswRiifM45gWlt-XXnVYBRa/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			}
 		]
 	},
 	{
-		"short_name": "VFiS",
 		"name": "Touhou Sangetsusei ~ Visionary Fairies in Shrine",
+		"short_name": "VFiS",
 		"chapters": [
 			{
 				"name": "Chapter 1: The Fairies Who Move The Shrine",
+				"pages": 27,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1MWQ40ugKCR2SAw2uMs2an_6O5gClf5C6/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 2: Hell Creeping Up From Underfoot",
+				"pages": 28,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1UatlnA7zueAhU8xfSCx8-Q3kDK8XK67-/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 3: A Midsummer Day's Dream",
+				"pages": 20,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1bPdKISNgrqbTMdtjr2AOIv3xSyRYxbnW/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 4: Autumn Harvest, Autumn Hell",
+				"pages": 20,
 				"download_url": "https://www.googleapis.com/drive/v3/files/14ZVdv5g-KdHjBsBJnn1AoEKcez7t8-SM/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 5: Reimu's Tour of Hell",
+				"pages": 28,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1aFjpe5XU5q8QxFgkAiJIiZ4_mLLUnedq/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 6: The Shadow Lead Dies First",
+				"pages": 25,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1x4U6YeM8GN5BodDRiyvrWBO2rQKoLpOl/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 7: Stars, the Interval Between Season and Clouds",
+				"pages": 27,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1izRSWx0BzXM9Qj7FZPBsq4IyluZSAqpI/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 8: Those With Doors on Their Backs",
+				"pages": 44,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1odBcz4aCf4S4M6ebO6vtcBoulgU6p0y6/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 9: The Deep Winter Red Hot Fire Festival (Part 1)",
+				"pages": 32,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1cp1AIRjPsvgZmITto4ELBI9_1swTBtg2/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 9: The Deep Winter Red Hot Fire Festival (Part 2)",
+				"pages": 26,
 				"download_url": "https://www.googleapis.com/drive/v3/files/121JFbjQKkUVNoMXDpRQVL6981fNNfjTB/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 10: The Full Moon Illuminating the New Moon",
+				"pages": 29,
 				"download_url": "https://www.googleapis.com/drive/v3/files/189TQR8Egjg-9Tr7pMjrujLhWcW6NDtXW/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 11: The Out of Control Pseudo-Dragon (Part 1)",
+				"pages": 33,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1It0FVLnvh8m6A20vmHDsPY1172n0BFS9/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 11: The Out of Control Pseudo-Dragon (Part 2)",
+				"pages": 32,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1jDhBwKI_s-VrZa1z_psFRQpf5m4my7Bm/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 12: Dying Midsummer",
+				"pages": 0,
 				"download_url": "https://www.googleapis.com/drive/v3/files/10watUU1R6t5XA3zMJlq7Gglu45Sbs8lq/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 13: The Incident's Double Helix",
+				"pages": 30,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1vXTv4KLczsJ-bIecrZ4dPTPxdTT6XRyn/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 14: The Treasonous Hell Fairy",
+				"pages": 18,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1BiZ3-VsL7I60sxfAK7-qi58Iw4sOPoJn/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 15: The Strange Tale of the Fairy Incident",
+				"pages": 19,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1RNy7TOIPfGN1hL1wSqb-jce5c6FzPJzK/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			}
 		]
 	},
 	{
-		"short_name": "FS",
 		"name": "Touhou Suzunaan ~ Forbidden Scrollery",
+		"short_name": "FS",
 		"chapters": [
 			{
 				"name": "Chapter 1: The Rare Book of Illusion",
+				"pages": 27,
 				"download_url": "https://www.googleapis.com/drive/v3/files/10cIaJ6D4SWEW9xA3u4wyxLXlghg1NnRU/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 2: December Youkai Extermination (Part 1)",
+				"pages": 26,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1-GC9baT-51teJdEpUDNzmh35_Lw0PSIC/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 3: December Youkai Extermination (Part 2)",
+				"pages": 27,
 				"download_url": "https://www.googleapis.com/drive/v3/files/17ZdnAalQiwEP6wfc59k0jrtTOgneD4E5/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 4: Privately Published Night Parade Scroll (Part 1)",
+				"pages": 19,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1_CWYUl2QYohB4IIaC6psx9vFuKbja6mj/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 5: Privately Published Night Parade Scroll (Part 2)",
+				"pages": 22,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1XGx7hUFl7PhrFUEVwuZCsS24qs3NSKGl/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 6: The Requirements for Raising a Rare Beast (Part 1)",
+				"pages": 20,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1yVXUSBJjVwNEIqQADxvj5lIS_GTNo0YJ/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 7: The Requirements for Raising a Rare Beast (Part 2)",
+				"pages": 24,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1rbCAP0xgJTXxe4OvPkEY-cLuGbbGYTSR/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 8: The Inari's Hood (Part 1)",
+				"pages": 19,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1O-wLMKjT_QO9kYj-7NQ3BL5Yi3xY_IJn/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 9: The Inari's Hood (Part 2)",
+				"pages": 20,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1A6EwgnA-0BlvJpR9gBfHUHaipLrhmuQs/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 10: Traditional Performing Arts of Darkness (Part 1)",
+				"pages": 18,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1p5IiODa_ZeYsLgM6gNjW_WpyQ_wqHk5N/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 11: Traditional Performing Arts of Darkness (Part 2)",
+				"pages": 20,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1uQYhhGfP8HWAehw7GRA4gNv04sKaqKfa/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 12: The Aftermath of the Miracle Mallet (Part 1)",
+				"pages": 21,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1w1IJoJeTQGkq5K2FLq2BbGwMWS_KCCzd/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 13: The Aftermath of the Miracle Mallet (Part 2)",
+				"pages": 23,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1sQMnjbUhZg3lPVeZe5-VIIP_m_zg1dSD/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 14: The Short-Lived Seven Wonders (Part 1)",
+				"pages": 19,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1rLgrdMGscfZriEI7pqDOTzhv83iqQ0ux/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 15: The Short-Lived Seven Wonders (Part 2)",
+				"pages": 20,
 				"download_url": "https://www.googleapis.com/drive/v3/files/19afceTW-t03TidemRnsCjlvWfEb57f1o/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 16: The Shady Love Letter (Part 1)",
+				"pages": 20,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1uZ1wF_DJ6sTmnllgTiZPwl98PBbLymnm/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 17: The Shady Love Letter (Part 2)",
+				"pages": 22,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1DrF0Wc9m4RcsTZthnPSuTreih4tvVJaG/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 18: The Skeptical Book Renter (Part 1)",
+				"pages": 18,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1b06JZ7HwtaS3k83lWGZ-72uDwDAlYlhG/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 19: The Skeptical Book Renter (Part 2)",
+				"pages": 23,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1_dHPzb4RF_Rq7TyNHmLdnjJf0RYgo-ZL/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 20: Rodent-Infested Summer (Part 1)",
+				"pages": 19,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1hB76RGYE4yDEHzzQYUfIynZEOJAQw0_U/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 21: Rodent-Infested Summer (Part 2)",
+				"pages": 26,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1c5qlYcOJ26U4VqSCvFf4KbeULAuSrm_9/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 22: Tobacco, the Tanuki, and the Dine-and-Dasher (Part 1)",
+				"pages": 22,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1UJG2PgbSs3JYmdRI8cviGspIH3JRqdGV/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 23: Tobacco, the Tanuki, and the Dine-and-Dasher (Part 2)",
+				"pages": 24,
 				"download_url": "https://www.googleapis.com/drive/v3/files/10EPOcryvuvYOz7llMVN4NjUzOLFWDcIF/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 24: Unattributed Words Are Easily Stolen (Part 1)",
+				"pages": 20,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1a71O9eqos8FIjpoMdzVWANXqa2VXLdNO/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 25: Unattributed Words Are Easily Stolen (Part 2)",
+				"pages": 26,
 				"download_url": "https://www.googleapis.com/drive/v3/files/13yR7poYlRdIJzix3rDUo2xDRdDlrt8cz/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 26: Kokkuri Scatters with the Cherry Blossoms (Part 1)",
+				"pages": 19,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1tX1MxSbcK0RZYqnXO_91xPSzTtYBzG3x/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 27: Kokkuri Scatters with the Cherry Blossoms (Part 2)",
+				"pages": 24,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1xueCVMTwGuhkDD2u8BmADttoV9oLy_H9/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 28: The Kappa's Grimoire (Part 1)",
+				"pages": 19,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1pf6OPqsXdSAjUNh5dUlJTC9rr1Pi3Nb7/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 29: The Kappa's Grimoire (Part 2)",
+				"pages": 25,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1VpfHx3WxYRoK8rF9BJN2iRCb5_3lTkYy/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 30: Is the Bull's Head Somewhere Out There? (Part 1)",
+				"pages": 20,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1cCI4Ta9-Ar2EwQ3jJImBrlGjBtVakYvK/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 31: Is the Bull's Head Somewhere Out There? (Part 2)",
+				"pages": 24,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1SnDDa4sH4KfmGVyxwKI2DAgpZtM-ImDI/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 32: Rulers of the Truth (Part 1)",
+				"pages": 20,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1XWTRWV3o42Yispd_dbB5DbjROBK5iKa2/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 33: Rulers of the Truth (Part 2)",
+				"pages": 21,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1VRtpXwoBDRjUXCCdssfETXnGyQkXvr1F/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 34: Who's Spreading Demagogy? (Part 1)",
+				"pages": 22,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1VGLPhnBStUHRFKaI126YCST4STxe40Wd/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 35: Who's Spreading Demagogy? (Part 2)",
+				"pages": 25,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1dgaIRknsMzraM00QUFZcsUGzXBlY9c7r/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 36: The Drunken Horse Bush Appearing in the Human Village (Part 1)",
+				"pages": 19,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1OJ42__pHtj9dRU-mPkJ7kcmqtW72SO4r/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 37: The Drunken Horse Bush Appearing in the Human Village (Part 2)",
+				"pages": 22,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1RCdyU99GE_u19BGJvpdIXzB9RUKxRhf4/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 38: Are the Lords of Information Gathered? Or Scattered? (Part 1)",
+				"pages": 19,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1TUpuiACK0fwHMMlg65nGWEdlql93TKEp/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 39: Are the Lords of Information Gathered? Or Scattered? (Part 2)",
+				"pages": 18,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1nJ2TDoUjXo5UNj8oBSvYe5kU0d73uDBQ/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 40: Is This All the Work of Youkai Too? (Part 1)",
+				"pages": 21,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1SsLx_idgsXdoY5rPK_Kn0BMeIMs0GWCO/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 41: Is This All the Work of Youkai Too? (Part 2)",
+				"pages": 25,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1OJqJtjaRVtVQsA3B7EJ-mZL5oDDmV9lS/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 42: One Hundred Ghost Stories for Humans and Youkai (Part 1)",
+				"pages": 16,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1oeI1ncJHImMrtbA2lKZg_xLOJrd6F7vG/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 43: One Hundred Ghost Stories for Humans and Youkai (Part 2)",
+				"pages": 20,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1n9mQD2skRilKG2lVVl_0xn7alK41sudU/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 44: Let's Not Go Out On Purple Days (Part 1)",
+				"pages": 18,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1nnVdpdZ4nPyyNL1tbqXti7WsiOhu6Qc0/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 45: Let's Not Go Out On Purple Days (Part 2)",
+				"pages": 21,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1tElL4eQjBepgVRjmcMdgjFa1vk89a0xI/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 46: Hieda no Akyu's Philosophy (Part 1)",
+				"pages": 17,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1cvvdCE1O1NO67odvMKGYEIA12jTxwKev/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 47: Hieda no Akyu's Philosophy (Part 2)",
+				"pages": 14,
 				"download_url": "https://www.googleapis.com/drive/v3/files/190CRZJiJ4SoniBU6towXKtZesYWx7lPJ/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 48: Kosuzu Motoori's Conflict (Part 1)",
+				"pages": 17,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1NOmZnPxndBhf7UBhqxjIR23-PMxop69C/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 49: Kosuzu Motoori's Conflict (Part 2)",
+				"pages": 22,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1iUNoMgTIBWGlqU3BZBkypeI4sawrf024/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 50: Reimu Hakurei's Miscalculation (Part 1)",
+				"pages": 24,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1Zuaglo4Zonqh0b2z8QLkcaKOKSuAdDU7/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 51: Reimu Hakurei's Miscalculation (Part 2)",
+				"pages": 25,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1QVBRvOiTwAUiX0mRcsZhFpFFr7RVJUmY/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 52: Yukari Yakumo's Peace (Part 1)",
+				"pages": 15,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1rLZTZdl8ImQMZ_qWvbWnyiDO1EeQ4o5Q/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Chapter 53: Yukari Yakumo's Peace (Part 2)",
+				"pages": 21,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1GQVW7LlM-rNfEZkTJL5w371Uyt9DS9uF/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Vol. 1 Bonus Chapter - A Youkai Fairy Tale",
+				"pages": 22,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1yHMz5ApmodQwxfgXXjhna2FzP4VlrBPu/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Vol. 2 Bonus Material",
+				"pages": 11,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1UrgoF8m4f8kju0Jklkh-ZPNllV3xyd3x/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Vol. 3 Bonus Material",
+				"pages": 11,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1hCL2qJuZAUbHvlj6yJa93z_63auKYBaY/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Vol. 4 Bonus Material",
+				"pages": 7,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1LQ1TrGC11mv4RYPGOcEOFOdm8Qs52N0A/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			},
 			{
 				"name": "Vol. 5 Bonus Material",
+				"pages": 8,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1N7mvuBGSjCZamZ902RDBcSwdr21yK5ES/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			}
 		]
 	},
 	{
-		"short_name": "TGoU",
 		"name": "The Grimoire of Usami",
+		"short_name": "TGoU",
 		"chapters": [
 			{
 				"name": "Complete book",
+				"pages": 83,
 				"download_url": "https://www.googleapis.com/drive/v3/files/1wNGdY8bJxWcHqbaxzAtbK0MN9UCulTE-/?key=AIzaSyC3iK6AZO6j83PlF0BXU4yXN9VSmwBlq7U&alt=media"
 			}
 		]
