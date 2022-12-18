@@ -83,28 +83,62 @@
 						</div>
 					</div>
 				</div>
-				<!--<div class="accordion-item">
-					<h2 class="accordion-header" id="game-buttons-images">
-						<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-game-buttons-images" aria-expanded="false" aria-controls="faq-game-buttons-images">Game buttons images</button>
+				<div class="accordion-item">
+					<h2 class="accordion-header" id="decompression">
+						<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq-decompression" aria-expanded="true" aria-controls="faq-decompression">Why do I get an error when decompressing?</button>
 					</h2>
 
-					<div id="faq-game-buttons-images" class="accordion-collapse collapse" aria-labelledby="game-buttons-images" data-bs-parent="#faq-list">
+					<div id="faq-decompression" class="accordion-collapse collapse show" aria-labelledby="decompression" data-bs-parent="#faq-list">
 						<div class="accordion-body">
-							<p>You can do so by going to your installation folder and putting the image file (only png files) under the folder named "images" with the file being named "thXX" (for EoSD it would be "th06" and so on...) for the games and "random" for the random button. You will have to enable the feature in the "Settings" section in the Launcher.</p>
+							<p>Do everyone a favor and stop using Window's built-in (and arcaic) decompressor, you can use <a href="https://www.7-zip.org/" target="_blank">7-Zip</a>.</p>
 						</div>
 					</div>
-				</div>-->
+				</div>
+				<div class="accordion-item">
+					<h2 class="accordion-header" id="game-btns-imgs">
+						<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq-game-btns-imgs" aria-expanded="true" aria-controls="faq-game-btns-imgs">How do I add my own images for game buttons?</button>
+					</h2>
+
+					<div id="faq-game-btns-imgs" class="accordion-collapse collapse show" aria-labelledby="game-btns-imgs" data-bs-parent="#faq-list">
+						<div class="accordion-body">
+							<p>You can do so by going to your installation folder and placing the image (160x60 PNG files) into the folder named "images" with the file being named as the default file in the folder and "random" for the random button.</p>
+						</div>
+					</div>
+				</div>
 			</div>
 		</section>
 		<section id="changelog">
 			<h1>Changelog</h1>
 			<div id="changelog-list" class="accordion w-75 m-auto">
 				<div class="accordion-item">
-					<h2 class="accordion-header" id="v460-heading">
-						<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#v460-body" aria-expanded="true" aria-controls="v460-body">Version 4.6.0</button>
+					<h2 class="accordion-header" id="v470-heading">
+						<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#v470-body" aria-expanded="true" aria-controls="v470-body">Version 4.7.0</button>
 					</h2>
 
-					<div id="v460-body" class="accordion-collapse collapse show" aria-labelledby="v460-heading" data-bs-parent="#changelog-list">
+					<div id="v470-body" class="accordion-collapse collapse show" aria-labelledby="v470-heading" data-bs-parent="#changelog-list">
+						<div class="accordion-body">
+							<ul>
+								<li>Changed design of grid layout.</li>
+								<li>Fixed music from PC-98 not loading.</li>
+								<li>Moved TH17.5 to the Fighting Games category.</li>
+								<li>Fixed some TH18.5 music names being mixed up.</li>
+								<li>Upped the resolution of Fan Game's icons to 256x256.</li>
+								<li>Shortcuts (.lnk files) can now be added as Fan Games.</li>
+								<li>Added combo box to change active thcrap stack in the grid layout.</li>
+								<li>Fixed being able to select shortcuts as locations of official games.</li>
+								<li>Added images (made by DJO_Maverick!) to the game buttons in the grid layout.</li>
+								<li>Added context menu (right-click menu) to TH18.5's button in the grid layout.</li>
+								<li>Fixed fan games rename text box displaying that text could be selected when it was not the case.</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="accordion-item">
+					<h2 class="accordion-header" id="v460-heading">
+						<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#v460-body" aria-expanded="false" aria-controls="v460-body">Version 4.6.0</button>
+					</h2>
+
+					<div id="v460-body" class="accordion-collapse collapse" aria-labelledby="v460-heading" data-bs-parent="#changelog-list">
 						<div class="accordion-body">
 							<ul>
 								<li>Updated to .NET 7, please report any bugs!</li>
@@ -122,7 +156,7 @@
 				</div>
 				<div class="accordion-item">
 					<h2 class="accordion-header" id="v451-heading">
-						<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#v451-body" aria-expanded="true" aria-controls="v451-body">Version 4.5.1</button>
+						<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#v451-body" aria-expanded="false" aria-controls="v451-body">Version 4.5.1</button>
 					</h2>
 
 					<div id="v451-body" class="accordion-collapse collapse" aria-labelledby="v451-heading" data-bs-parent="#changelog-list">
