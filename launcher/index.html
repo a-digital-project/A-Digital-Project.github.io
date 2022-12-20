@@ -74,10 +74,10 @@
 			<div id="faq-list" class="accordion w-75 m-auto">
 				<div class="accordion-item">
 					<h2 class="accordion-header" id="static-patches-heading">
-						<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#static-patches-body" aria-expanded="true" aria-controls="static-patches-body">Does the launcher support non-static patches?</button>
+						<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#static-patches-body" aria-expanded="false" aria-controls="static-patches-body">Does the launcher support non-static patches?</button>
 					</h2>
 
-					<div id="static-patches-body" class="accordion-collapse collapse show" aria-labelledby="static-patches-heading" data-bs-parent="#faq-list">
+					<div id="static-patches-body" class="accordion-collapse collapse" aria-labelledby="static-patches-heading" data-bs-parent="#faq-list">
 						<div class="accordion-body">
 							<p class="m-0"><b>Yes</b>, non-static patches such as thcrap are supported; in fact, they are recommend over static patches.</p>
 						</div>
@@ -85,10 +85,10 @@
 				</div>
 				<div class="accordion-item">
 					<h2 class="accordion-header" id="decompression">
-						<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq-decompression" aria-expanded="true" aria-controls="faq-decompression">Why do I get an error when decompressing?</button>
+						<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-decompression" aria-expanded="false" aria-controls="faq-decompression">Why do I get an error when decompressing?</button>
 					</h2>
 
-					<div id="faq-decompression" class="accordion-collapse collapse show" aria-labelledby="decompression" data-bs-parent="#faq-list">
+					<div id="faq-decompression" class="accordion-collapse collapse" aria-labelledby="decompression" data-bs-parent="#faq-list">
 						<div class="accordion-body">
 							<p>Do everyone a favor and stop using Window's built-in (and arcaic) decompressor, you can use <a href="https://www.7-zip.org/" target="_blank">7-Zip</a>.</p>
 						</div>
@@ -96,10 +96,10 @@
 				</div>
 				<div class="accordion-item">
 					<h2 class="accordion-header" id="game-btns-imgs">
-						<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq-game-btns-imgs" aria-expanded="true" aria-controls="faq-game-btns-imgs">How do I add my own images for game buttons?</button>
+						<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-game-btns-imgs" aria-expanded="false" aria-controls="faq-game-btns-imgs">How do I add my own images for game buttons?</button>
 					</h2>
 
-					<div id="faq-game-btns-imgs" class="accordion-collapse collapse show" aria-labelledby="game-btns-imgs" data-bs-parent="#faq-list">
+					<div id="faq-game-btns-imgs" class="accordion-collapse collapse" aria-labelledby="game-btns-imgs" data-bs-parent="#faq-list">
 						<div class="accordion-body">
 							<p>You can do so by going to your installation folder and placing the image (160x60 PNG files) into the folder named "images" with the file being named as the default file in the folder and "random" for the random button.</p>
 						</div>
@@ -111,11 +111,25 @@
 			<h1>Changelog</h1>
 			<div id="changelog-list" class="accordion w-75 m-auto">
 				<div class="accordion-item">
-					<h2 class="accordion-header" id="v470-heading">
-						<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#v470-body" aria-expanded="true" aria-controls="v470-body">Version 4.7.0</button>
+					<h2 class="accordion-header" id="v471-heading">
+						<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#v471-body" aria-expanded="true" aria-controls="v471-body">Version 4.7.1</button>
 					</h2>
 
-					<div id="v470-body" class="accordion-collapse collapse show" aria-labelledby="v470-heading" data-bs-parent="#changelog-list">
+					<div id="v471-body" class="accordion-collapse collapse show" aria-labelledby="v471-heading" data-bs-parent="#changelog-list">
+						<div class="accordion-body">
+							<ul>
+								<li>Fixed game covers not loading.</li>
+								<li>Fixed thcrap not finding games when they are inside the folder where the Launcher is.</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="accordion-item">
+					<h2 class="accordion-header" id="v470-heading">
+						<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#v470-body" aria-expanded="false" aria-controls="v470-body">Version 4.7.0</button>
+					</h2>
+
+					<div id="v470-body" class="accordion-collapse collapse" aria-labelledby="v470-heading" data-bs-parent="#changelog-list">
 						<div class="accordion-body">
 							<ul>
 								<li>Changed design of grid layout.</li>
