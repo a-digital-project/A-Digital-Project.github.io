@@ -101,7 +101,19 @@
 
 					<div id="faq-game-btns-imgs" class="accordion-collapse collapse" aria-labelledby="game-btns-imgs" data-bs-parent="#faq-list">
 						<div class="accordion-body">
-							<p>You can do so by going to your installation folder and placing the image (160x60 PNG files) into the folder named "images" with the file being named as the default file in the folder and "random" for the random button.</p>
+							<p>You can do so by going to your installation folder and placing the image (160x60 PNG files) into the folder named 'images' with the file being named as the default file in the folder and 'random' for the random button.</p>
+						</div>
+					</div>
+				</div>
+				<div class="accordion-item">
+					<h2 class="accordion-header" id="translation">
+						<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-translation" aria-expanded="false" aria-controls="faq-translation">Can I translate the Launcher into my own language?</button>
+					</h2>
+
+					<div id="faq-translation" class="accordion-collapse collapse" aria-labelledby="translation" data-bs-parent="#faq-list">
+						<div class="accordion-body">
+							<p>Inside the Launcher's folder, inside the folder named 'langs', use whichever file as reference, remember to not change values' keys (the part before a semicolon), and to change the 'title' to your language's name and 'code' to your language's code (i.e.: en-GB, etc.).</p>
+							<p>After you are finished, you can send the file to the <a href="https://discord.gg/Mwnev4J">Discord server</a>'s language forum (open a new thread if one for your language does not exist) or to <a href="mailto:contact@adigitalproject.tk">contact@adigitalproject.tk</a>.</p>
 						</div>
 					</div>
 				</div>
@@ -111,11 +123,26 @@
 			<h1>Changelog</h1>
 			<div id="changelog-list" class="accordion w-75 m-auto">
 				<div class="accordion-item">
-					<h2 class="accordion-header" id="v471-heading">
-						<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#v471-body" aria-expanded="true" aria-controls="v471-body">Version 4.7.1</button>
+					<h2 class="accordion-header" id="v500-heading">
+						<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#v500-body" aria-expanded="true" aria-controls="v500-body">Version 5.0.0</button>
 					</h2>
 
-					<div id="v471-body" class="accordion-collapse collapse show" aria-labelledby="v471-heading" data-bs-parent="#changelog-list">
+					<div id="v500-body" class="accordion-collapse collapse show" aria-labelledby="v500-heading" data-bs-parent="#changelog-list">
+						<div class="accordion-body">
+							<ul>
+								<li>Fixed bug that made the Launcher crash when trying to load a patch stack from thcrap.</li>
+								<li>Due to the changes in language handling, the setting that stores the language has been reset to English, sorry for the incovenience!</li>
+								<li>Changed the way languages are handled, if you want to translate the Launcher into a new language or make corrections, look at the <a href="#translation">F.A.Q</a>!</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="accordion-item">
+					<h2 class="accordion-header" id="v471-heading">
+						<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#v471-body" aria-expanded="false" aria-controls="v471-body">Version 4.7.1</button>
+					</h2>
+
+					<div id="v471-body" class="accordion-collapse collapse" aria-labelledby="v471-heading" data-bs-parent="#changelog-list">
 						<div class="accordion-body">
 							<ul>
 								<li>Fixed game covers not loading.</li>
