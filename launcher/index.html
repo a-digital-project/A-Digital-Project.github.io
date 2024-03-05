@@ -1,15 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<!-- Global site tag (gtag.js) - Google Analytics -->
-		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-129823449-1"></script>
-		<script>
-  			window.dataLayer = window.dataLayer || [];
-  			function gtag(){dataLayer.push(arguments);}
-  			gtag('js', new Date());
-
-			gtag('config', 'UA-129823449-1');
-		</script>
 		<title>Touhou Launcher - A Digital Project</title>
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -17,8 +8,6 @@
 		<meta name="keywords" content="A Digital Project, ADP, Tohou Launcher, Touhou, Launcher">
 		<meta name="description" content="Touhou Launcher project website.">
 		<meta name="author" content="A Digital Project">
-		<meta name="google-site-verification" content="QgJvSA2kdj18LdEZIJEu41l6GHzMgUMyF8S_1EdG35o" />
-		<!-- Copyright © A Digital Project 2022 -->
 		<noscript>The page might not work as intended if scripting is disabled!</noscript>
 		<link rel="icon" href="/dist/imgs/launcher/logo.ico">
 		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
@@ -113,7 +102,7 @@
 					<div id="faq-translation" class="accordion-collapse collapse" aria-labelledby="translation" data-bs-parent="#faq-list">
 						<div class="accordion-body">
 							<p>Inside the Launcher's folder, inside the folder named 'langs', use whichever file as reference, remember to not change values' keys (the part before a semicolon), and to change the 'title' to your language's name and 'code' to your language's code (i.e.: en-GB, etc.).</p>
-							<p>After you are finished, you can send the file to the <a href="https://discord.gg/Mwnev4J">Discord server</a>'s language forum (open a new thread if one for your language does not exist) or to <a href="mailto:contact@adigitalproject.tk">contact@adigitalproject.tk</a>.</p>
+							<p>After you are finished, you can send the file to the <a href="https://discord.gg/Mwnev4J">Discord server</a>'s language forum (open a new thread if one for your language does not exist) or to <a href="mailto:adigitalproject0@gmail.com">adigitalproject0@gmail.com</a>.</p>
 						</div>
 					</div>
 				</div>
@@ -123,11 +112,29 @@
 			<h1>Changelog</h1>
 			<div id="changelog-list" class="accordion w-75 m-auto">
 				<div class="accordion-item">
-					<h2 class="accordion-header" id="v540-heading">
-						<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#v540-body" aria-expanded="true" aria-controls="v540-body">Version 5.4.0</button>
+					<h2 class="accordion-header" id="v550-heading">
+						<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#v550-body" aria-expanded="true" aria-controls="v550-body">Version 5.5.0</button>
 					</h2>
 
-					<div id="v540-body" class="accordion-collapse collapse show" aria-labelledby="v540-heading" data-bs-parent="#changelog-list">
+					<div id="v550-body" class="accordion-collapse collapse show" aria-labelledby="v550-heading" data-bs-parent="#changelog-list">
+						<div class="accordion-body">
+							<ul>
+								<li>Fixed TH14 music having titles from TH15.</li>
+								<li>Now thcrap searching looks for repos names too.</li>
+								<li>Updated to .NET 8, let me know if something's broken!</li>
+								<li>Added TH19 and TH18.5 to the list of games in the tray icon.</li>
+								<li>Fixed fan games not opening if they are inside the launcher's folder.</li>
+								<li>Fixed bug that made it so it wasn't possible to connect to the servers.</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="accordion-item">
+					<h2 class="accordion-header" id="v540-heading">
+						<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#v540-body" aria-expanded="false" aria-controls="v540-body">Version 5.4.0</button>
+					</h2>
+
+					<div id="v540-body" class="accordion-collapse collapse" aria-labelledby="v540-heading" data-bs-parent="#changelog-list">
 						<div class="accordion-body">
 							<ul>
 								<li>Added search feature to search for thcrap patches.</li>
@@ -1190,7 +1197,7 @@
 					<img src="/dist/imgs/icons/yt-icon-white.png" class="w-100" alt="YouTube">
 				</a>
 			</div>
-			<a href="mailto:contact@adigitalproject.tk" class="contact">contact@adigitalproject.tk</a>
+			<a href="mailto:adigitalproject0@gmail.com" class="contact">adigitalproject0@gmail.com</a>
 			<a href="#" class="btn-top d-none d-md-block" role="button">
 				<img src="/dist/imgs/icons/scroll-up-icon.png" alt="Scroll up">
 			</a>
